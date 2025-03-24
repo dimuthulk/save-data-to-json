@@ -1,0 +1,23 @@
+{
+  "name": "save-data-to-json",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimuthulk/save-data-to-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimuthulk/save-data-to-json/issues"
+  },
+  "homepage": "https://github.com/dimuthulk/save-data-to-json#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
